@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Api Key
+../src/main/java/Key.java
+
